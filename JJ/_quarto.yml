@@ -9,7 +9,7 @@ website:
         text: Home
       - about.qmd
       - href: projects.qmd
-        text: kkk
+        text: Projects
 
 format:
   html:
