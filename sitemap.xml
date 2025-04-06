@@ -2,14 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jitvanvij.github.io/projects.html</loc>
-    <lastmod>2025-02-05T21:16:58.617Z</lastmod>
+    <lastmod>2025-04-06T06:58:32.507Z</lastmod>
   </url>
   <url>
-    <loc>https://jitvanvij.github.io/about.html</loc>
-    <lastmod>2025-02-05T21:16:58.617Z</lastmod>
+    <loc>https://jitvanvij.github.io/cv.html</loc>
+    <lastmod>2025-04-06T06:58:32.507Z</lastmod>
   </url>
   <url>
     <loc>https://jitvanvij.github.io/index.html</loc>
-    <lastmod>2025-02-05T21:16:58.617Z</lastmod>
+    <lastmod>2025-04-06T06:58:32.507Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jitvanvij.github.io/about.html</loc>
+    <lastmod>2025-04-06T06:58:32.507Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jitvanvij.github.io/contact.html</loc>
+    <lastmod>2025-04-06T06:58:32.507Z</lastmod>
   </url>
 </urlset>
