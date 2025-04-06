@@ -2,22 +2,22 @@ project:
   type: website
 
 website:
-  title: "Welcome to My Website"
+  title: "Jitvan Vij"
   navbar:
+    background: black
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - href: projects.qmd
-        text: Projects
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    center: "© 2025 Jitvan Vij"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: flatly
     css: styles.css
-    toc: true
-
-
-

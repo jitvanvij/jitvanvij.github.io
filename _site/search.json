@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "About this site"
+    "text": "Data Analysis (Python, R, SQL, Spark)\nStatistical Modeling & Simulation\nCloud Tools (AWS, EC2)\nProject Management & Communication\n\n\n\n\n\nJupyter, RStudio, GitHub, Quarto, Excel, Tableau\n\n\n\n\nBoston University, Metropolitan College\nMS in Applied Data Analytics\n\n\n\nClick here to download PDF"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "",
+    "text": "Data Analysis (Python, R, SQL, Spark)\nStatistical Modeling & Simulation\nCloud Tools (AWS, EC2)\nProject Management & Communication"
   },
   {
     "objectID": "index.html",
@@ -12,5 +19,82 @@
     "title": "Welcome to My Website",
     "section": "",
     "text": "Hello, World!\nWelcome to my Quarto website."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "📬 Get in Touch\nFeel free to reach out for collaborations, freelance work, or data-driven consulting.\n\n📧 Email: jitvanj@bu.edu\n🐙 GitHub: jitvanvij"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "👋 Hi, I’m Jitvan Vij\nI’m a graduate student at Boston University, specializing in Data Analytics, Business Intelligence, and Simulation Modeling.\nWith hands-on experience in Python, R, Spark, and AWS, I work at the intersection of data and decision-making. My background includes working on real-world projects in data mining, cloud-based data engineering, and Monte Carlo simulations.\nWhen I’m not building models, I enjoy exploring productivity tools and deep diving into basketball analytics."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzed Chicago building violations using Python (Pandas, Matplotlib). Built custom features, visualized fine trends, and filtered disposition types to reveal insights in enforcement delays.\n\n\n\nSimulated uniform distributions and order statistics to demonstrate CLT and probability curves. Modeled profit risk for boat production and optimized investment portfolios using Monte Carlo simulations.\n\n\n\nBuilt relational tables from job postings data on Spark. Wrote SQL queries to uncover job trends, salary distribution, and industry breakdowns. Hosted all on EC2 instance.\n\n\n\nApplied the Triple Catalyst model to Nike’s market/innovation/sustainability strategy. Also led stakeholder communication planning for a smart parking app (PiSA) using RACI & Power-Interest matrices.\n\n\n\nProject management case study analyzing Flint’s communication breakdown, risk failures, and lack of oversight. Proposed policy-based solutions with a weighted scoring model."
+  },
+  {
+    "objectID": "projects.html#data-mining-for-business-analytics-ad699",
+    "href": "projects.html#data-mining-for-business-analytics-ad699",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzed Chicago building violations using Python (Pandas, Matplotlib). Built custom features, visualized fine trends, and filtered disposition types to reveal insights in enforcement delays."
+  },
+  {
+    "objectID": "projects.html#statistical-simulation-ad616-assignments-14",
+    "href": "projects.html#statistical-simulation-ad616-assignments-14",
+    "title": "Projects",
+    "section": "",
+    "text": "Simulated uniform distributions and order statistics to demonstrate CLT and probability curves. Modeled profit risk for boat production and optimized investment portfolios using Monte Carlo simulations."
+  },
+  {
+    "objectID": "projects.html#spark-sql-on-aws-ec2-ad688",
+    "href": "projects.html#spark-sql-on-aws-ec2-ad688",
+    "title": "Projects",
+    "section": "",
+    "text": "Built relational tables from job postings data on Spark. Wrote SQL queries to uncover job trends, salary distribution, and industry breakdowns. Hosted all on EC2 instance."
+  },
+  {
+    "objectID": "projects.html#strategic-analysis-nike-pisa-app-ad643",
+    "href": "projects.html#strategic-analysis-nike-pisa-app-ad643",
+    "title": "Projects",
+    "section": "",
+    "text": "Applied the Triple Catalyst model to Nike’s market/innovation/sustainability strategy. Also led stakeholder communication planning for a smart parking app (PiSA) using RACI & Power-Interest matrices."
+  },
+  {
+    "objectID": "projects.html#public-health-risk-flint-water-crisis-ad642",
+    "href": "projects.html#public-health-risk-flint-water-crisis-ad642",
+    "title": "Projects",
+    "section": "",
+    "text": "Project management case study analyzing Flint’s communication breakdown, risk failures, and lack of oversight. Proposed policy-based solutions with a weighted scoring model."
+  },
+  {
+    "objectID": "cv.html#tools-platforms",
+    "href": "cv.html#tools-platforms",
+    "title": "CV",
+    "section": "",
+    "text": "Jupyter, RStudio, GitHub, Quarto, Excel, Tableau"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "Boston University, Metropolitan College\nMS in Applied Data Analytics"
+  },
+  {
+    "objectID": "cv.html#download-my-resume",
+    "href": "cv.html#download-my-resume",
+    "title": "CV",
+    "section": "",
+    "text": "Click here to download PDF"
   }
 ]

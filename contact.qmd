@@ -1,0 +1,11 @@
+---
+title: "Contact"
+format: html
+---
+
+# 📬 Get in Touch
+
+Feel free to reach out for collaborations, freelance work, or data-driven consulting.
+
+- 📧 Email: [jitvanj@bu.edu](mailto:jitvanj@bu.edu)
+- 🐙 GitHub: [jitvanvij](https://github.com/jitvanvij)

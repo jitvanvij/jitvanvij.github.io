@@ -1,5 +1,12 @@
 ---
-title: "About"
+title: "About Me"
+format: html
 ---
 
-About this site
+# 👋 Hi, I'm Jitvan Vij
+
+I'm a graduate student at Boston University, specializing in Data Analytics, Business Intelligence, and Simulation Modeling.
+
+With hands-on experience in Python, R, Spark, and AWS, I work at the intersection of data and decision-making. My background includes working on real-world projects in data mining, cloud-based data engineering, and Monte Carlo simulations.
+
+When I’m not building models, I enjoy exploring productivity tools and deep diving into basketball analytics.

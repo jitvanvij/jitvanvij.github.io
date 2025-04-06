@@ -1,4 +1,21 @@
 ---
-title: "Project 1"
-author: "JJ"
+title: "Projects"
+format: html
 ---
+
+# 💼 Featured Projects
+
+## 🔹 Data Mining for Business Analytics 
+Analyzed Chicago building violations using Python (Pandas, Matplotlib). Built custom features, visualized fine trends, and filtered disposition types to reveal insights in enforcement delays.
+
+## 🔹 Statistical Simulation 
+Simulated uniform distributions and order statistics to demonstrate CLT and probability curves. Modeled profit risk for boat production and optimized investment portfolios using Monte Carlo simulations.
+
+## 🔹 Spark SQL on AWS EC2 
+Built relational tables from job postings data on Spark. Wrote SQL queries to uncover job trends, salary distribution, and industry breakdowns. Hosted all on EC2 instance.
+
+## 🔹 Strategic Analysis – Nike & PiSA App 
+Applied the Triple Catalyst model to Nike’s market/innovation/sustainability strategy. Also led stakeholder communication planning for a smart parking app (PiSA) using RACI & Power-Interest matrices.
+
+## 🔹 Public Health Risk – Flint Water Crisis 
+Project management case study analyzing Flint’s communication breakdown, risk failures, and lack of oversight. Proposed policy-based solutions with a weighted scoring model.
